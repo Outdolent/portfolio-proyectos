@@ -18,7 +18,7 @@ Me apasiona conectar el negocio con la tecnología para resolver problemas reale
 ## Mis Proyectos
 Aquí iré subiendo y documentando los proyectos que voy desarrollando. Puedes explorarlos por numeración:
 
-1. Mushrooms classification: análisis de base de datos de hongos comestibles y venenosos para clasificación y generación de heurística de producción. Documentos generados: jupyter notebook con el desarrollo del análisis y presentación ejecutiva en PowerPoint.
+1. **[Mushrooms Classification](./proyecto-mushrooms/):** Análisis de base de datos de hongos comestibles y venenosos para clasificación y generación de heurística de producción. Documentos generados: jupyter notebook con el desarrollo del análisis y presentación ejecutiva en PowerPoint.
 
 ---
 
