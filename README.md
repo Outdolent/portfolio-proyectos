@@ -16,12 +16,9 @@ Me apasiona conectar el negocio con la tecnología para resolver problemas reale
 ---
 
 ## Mis Proyectos
-Aquí iré subiendo y documentando los proyectos que voy desarrollando. Puedes explorarlos por carpeta:
+Aquí iré subiendo y documentando los proyectos que voy desarrollando. Puedes explorarlos por numeración:
 
-| Proyecto | ¿De qué trata? | Tecnologías |
-| :--- | :--- | :--- |
-| `[Nombre-Proyecto-1]` | *Breve descripción del problema, cómo lo abordaste y qué lograste.* | Python, SQL |
-| `[Nombre-Proyecto-2]` | *Breve descripción del análisis, tablero o automatización creada.* | Excel, Power Query, Power BI |
+1. Mushrooms classification: análisis de base de datos de hongos comestibles y venenosos para clasificación y generación de heurística de producción. Documentos generados: jupyter notebook con el desarrollo del análisis y presentación ejecutiva en PowerPoint.
 
 ---
 
